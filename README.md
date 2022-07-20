@@ -1,3 +1,8 @@
+# Site 
+https://journal-app-react17.netlify.app  
+email: alfredo@test.com
+password: 123456
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
